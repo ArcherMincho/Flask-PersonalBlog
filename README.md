@@ -1,5 +1,5 @@
 # Back-end Development
-A project of personal blog website.
+A project of a personal blog website.
 
 #Python 
 #Flask
